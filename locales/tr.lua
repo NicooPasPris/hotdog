@@ -4,5 +4,5 @@ Locales['tr'] = {
   ['not_enough']   			= 'Satın almak için yeterli paran yok.',
   ['max_item']           	= 'Envanterine daha fazla Hot Dog alamazsın.',
   ['command_in_progress'] 	= 'Siparişiniz hazırlık aşamasındadır.',
-  ['used_hotdog']			= 'Hot Dog'un tadıda efsaneymiş!'
+  ['used_hotdog']			= 'Hot Dog\'un tadıda efsaneymiş!'
 }
