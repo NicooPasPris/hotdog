@@ -7,6 +7,6 @@ Config.Type         = 1
 
 Config.Stand  		= {"prop_hotdogstand_01"} 
 
-Config.Locale       = 'fr'
+Config.Locale       = 'de'
 
 Config.Price		= 12
